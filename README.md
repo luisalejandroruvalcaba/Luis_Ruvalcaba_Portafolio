@@ -18,4 +18,4 @@ Objective: Get insights related to critic ratings and audience ratings , based o
 * Data cleaning process in Python
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot. Kernel Distribution Estimation plot)
 * Create a dashboard to get a better visualization
-
+* Test
