@@ -9,4 +9,13 @@ Objective: Get insights to review the relationship between Birth Rate - Internet
 * Data cleaning process in Python
 * Sub setting data frames using Pandas
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot)
-* Test
+
+# [Project #2: Movie Ratings](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Movie%20Rating%20Analytics.ipynb).
+
+Objective: Get insights related to critic ratings and audience ratings , based on the genre and budget (Millions $) of movies.
+* Web scraping data
+* Upload data to Python
+* Data cleaning process in Python
+* Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot. Kernel Distribution Estimation plot)
+* Create a dashboard to get a better visualization
+
