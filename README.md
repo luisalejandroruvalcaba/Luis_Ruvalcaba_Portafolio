@@ -35,3 +35,17 @@ Objective: Using Linear Regression Machine Learning Sklearn Python tool, find th
 * Training and modelling the liner regression.
 
 ![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression%20graph.png)
+
+# [Project #4: Sales international coffe store Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjc0MzUyNmMtMWYxYS00ZTA4LTkzMmItM2I2YjJjNDNjZDAxIiwidCI6IjgyODg3ZmViLTU4ZjgtNGVkMS1hMDdmLTViMmI3YmNiOWQ1ZSJ9)
+
+
+Objective: Create a interactive dashboard to check the international coffee store sales.
+* Getting and transformation data
+* Data modelling
+* DAX measures
+* Interactive Visualization 
+* Report design
+* Interactions and filters
+* Upload dashboard to web.
+
+![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/BI%20dashboards.png)
