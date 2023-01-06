@@ -1,4 +1,4 @@
-# Luis_Ruvalcaba_Portfolio
+# Luis_Ruvalcaba_Data Analyst
 Portfolio includes freelance data analyst projects
 
 # [Project #1: Insights Birth Rate - Internet Users - Income Group (World Countries)](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Birth%20Rate%20-%20Internet%20Users%20-%20Income%20Group%20(World%20Countries).ipynb).
@@ -21,7 +21,7 @@ Objective: Get insights related to critic ratings and audience ratings , based o
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot. Kernel Distribution Estimation plot)
 * Create a dashboard to get a better visualization
 
-![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Movie%20Rating%20Analytics%20graph.png)
+![Movie Rating Analytics graph](https://user-images.githubusercontent.com/121518402/211118526-a965f098-be08-4a69-ba39-546cb3db314f.png)
 
 # [Project #3: Machine Learning linear_regression car analys](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression.ipynb).
 
@@ -34,7 +34,7 @@ Objective: Using Linear Regression Machine Learning Sklearn Python tool, find th
 * Heatmap Correlation Matrix
 * Training and modelling the liner regression.
 
-![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression%20graph.png)
+![ML linear_regression graph](https://user-images.githubusercontent.com/121518402/211118494-5bd05f5c-42a8-40aa-827e-01fadebf0f1f.png)
 
 # [Project #4: Sales international coffe store Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjc0MzUyNmMtMWYxYS00ZTA4LTkzMmItM2I2YjJjNDNjZDAxIiwidCI6IjgyODg3ZmViLTU4ZjgtNGVkMS1hMDdmLTViMmI3YmNiOWQ1ZSJ9)
 
