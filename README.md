@@ -18,4 +18,14 @@ Objective: Get insights related to critic ratings and audience ratings , based o
 * Data cleaning process in Python
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot. Kernel Distribution Estimation plot)
 * Create a dashboard to get a better visualization
-* Test
+
+# [Project #3: Machine Learning linear_regression car analys](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression.ipynb).
+
+Objective: Using Linear Regression Machine Learning Sklearn Python tool, find the relation between mpg (mile per gallon) and the variables cylinders, horsepower, weight, origin and age of a cars.
+* Upload data to Python
+* Data cleaning process in Python
+* Univariate Analysis
+* Bivariate Analysis
+* Multivariable Analysis
+* Heatmap Correlation Matrix
+* Training and modelling the liner regression.
