@@ -10,6 +10,8 @@ Objective: Get insights to review the relationship between Birth Rate - Internet
 * Sub setting data frames using Pandas
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot)
 
+![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/World%20countries%20graph.png)
+
 # [Project #2: Movie Ratings](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Movie%20Rating%20Analytics.ipynb).
 
 Objective: Get insights related to critic ratings and audience ratings , based on the genre and budget (Millions $) of movies.
@@ -18,6 +20,8 @@ Objective: Get insights related to critic ratings and audience ratings , based o
 * Data cleaning process in Python
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot. Kernel Distribution Estimation plot)
 * Create a dashboard to get a better visualization
+
+![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Movie%20Rating%20Analytics%20graph.png)
 
 # [Project #3: Machine Learning linear_regression car analys](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression.ipynb).
 
@@ -29,3 +33,5 @@ Objective: Using Linear Regression Machine Learning Sklearn Python tool, find th
 * Multivariable Analysis
 * Heatmap Correlation Matrix
 * Training and modelling the liner regression.
+
+![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/ML%20linear_regression%20graph.png)
