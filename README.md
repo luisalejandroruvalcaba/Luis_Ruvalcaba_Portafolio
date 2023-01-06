@@ -9,3 +9,4 @@ Objective: Get insights to review the relationship between Birth Rate - Internet
 * Data cleaning process in Python
 * Sub setting data frames using Pandas
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot)
+* Test
