@@ -10,7 +10,7 @@ Objective: Get insights to review the relationship between Birth Rate - Internet
 * Sub setting data frames using Pandas
 * Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot)
 
-![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/World%20countries%20graph.png)
+![](https://raw.githubusercontent.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/main/World%20countries%20graph.png)
 
 # [Project #2: Movie Ratings](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Movie%20Rating%20Analytics.ipynb).
 
