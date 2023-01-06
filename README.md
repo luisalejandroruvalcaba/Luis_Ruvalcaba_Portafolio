@@ -1,5 +1,5 @@
 # Luis_Ruvalcaba_Portafolio
-Portafolio inlcudes free lance data analyst projects
+Portfolio includes freelance data analyst projects
 
 # [Project #1: Insights Birth Rate - Internet Users - Income Group (World Countries)](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/Birth%20Rate%20-%20Internet%20Users%20-%20Income%20Group%20(World%20Countries).ipynb).
 
@@ -48,4 +48,4 @@ Objective: Create a interactive dashboard to check the international coffee stor
 * Interactions and filters
 * Upload dashboard to web.
 
-![](https://github.com/luisalejandroruvalcaba/Python_DataAnalyst_Projects/blob/main/BI%20dashboards.png)
+![BI dashboards](https://user-images.githubusercontent.com/121518402/211116825-f195e935-3fe1-49e6-ab47-a7fa7f7281b0.png)
