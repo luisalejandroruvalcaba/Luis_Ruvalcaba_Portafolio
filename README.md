@@ -1,4 +1,3 @@
-[minimal-master.zip](https://github.com/luisalejandroruvalcaba/Luis_Ruvalcaba_Portfolio/files/10364756/minimal-master.zip)
 # Luis_Ruvalcaba_Data Analyst
 Portfolio includes freelance data analyst projects
 
